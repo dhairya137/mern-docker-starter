@@ -1,0 +1,9 @@
+Your Domain name:443 {
+  tls Email address connected to the domain name
+  root * /srv
+  route {
+    reverse_proxy /* api-server:5000
+    try_files {path} {path}/ /index.html
+    file_server
+  }
+}
