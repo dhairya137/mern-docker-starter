@@ -65,7 +65,7 @@ It will create your react and node images then It will start on port 3000 and po
 *You can now host in your vps with one command.* 
 
 
-### Note:- I am suggesting you should you Mongo atlas in Prodcution environment.
+### Note:- I am suggesting you should use Mongo atlas in Prodcution environment.
 
 ### ES Module in Node
 We us ECMAScript Modules in the backend in this project. Be sure to have at least Node v14.6+ or you will need to add the "--experimental-modules" flag. <br>
